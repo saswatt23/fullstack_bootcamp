@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(245, 245, 237);
+    text-align: center;
+}
+
+.box{
+    width: 4000px;
+    height: 50%;
+    padding: 200px;
+    margin: px;
+    border: 0px;
+}
+.box1{
+    background-color: rgb(253, 146, 6);
+    text-align: left;
+    
+}
+.box2{
+    background-color: rgb(244, 243, 245);
+    
+}
+.box3{
+    background-color: rgb(41, 221, 21);
+   text-align: right;
+
+}
